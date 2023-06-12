@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="JFoodList">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <scrollpane id="c99ae">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="6848b" layout-manager="GridLayoutManager" row-count="11" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="519a4" class="javax.swing.JButton" binding="detailButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="22230" class="javax.swing.JButton" binding="detailButton1" default-binding="true">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="8c561" class="javax.swing.JButton" binding="detailButton2" default-binding="true">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="b0162" class="javax.swing.JButton" binding="detailButton3" default-binding="true">
+                <constraints>
+                  <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="e1e75" class="javax.swing.JButton" binding="detailButton4" default-binding="true">
+                <constraints>
+                  <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="cbfb1" class="javax.swing.JButton" binding="detailButton5" default-binding="true">
+                <constraints>
+                  <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="226dc" class="javax.swing.JButton" binding="detailButton6" default-binding="true">
+                <constraints>
+                  <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="34e59" class="javax.swing.JButton" binding="detailButton7" default-binding="true">
+                <constraints>
+                  <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="46cd0" class="javax.swing.JButton" binding="detailButton8" default-binding="true">
+                <constraints>
+                  <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="30a78" class="javax.swing.JButton" binding="detailButton9" default-binding="true">
+                <constraints>
+                  <grid row="9" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detail"/>
+                </properties>
+              </component>
+              <component id="c26e6" class="javax.swing.JLabel" binding="label2">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="바른스시"/>
+                </properties>
+              </component>
+              <component id="581a0" class="javax.swing.JLabel" binding="label3">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="본찌돈까스"/>
+                </properties>
+              </component>
+              <component id="74936" class="javax.swing.JLabel" binding="label4">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="이까야"/>
+                </properties>
+              </component>
+              <component id="40c2e" class="javax.swing.JLabel" binding="label5">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="이라부"/>
+                </properties>
+              </component>
+              <component id="5d879" class="javax.swing.JLabel" binding="label6">
+                <constraints>
+                  <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="일성"/>
+                </properties>
+              </component>
+              <component id="5219f" class="javax.swing.JLabel" binding="label7">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="쪼코야끼"/>
+                </properties>
+              </component>
+              <component id="f442e" class="javax.swing.JLabel" binding="label8">
+                <constraints>
+                  <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="카츠요이"/>
+                </properties>
+              </component>
+              <component id="2dc2a" class="javax.swing.JLabel" binding="label9">
+                <constraints>
+                  <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="포동이네"/>
+                </properties>
+              </component>
+              <component id="5dd09" class="javax.swing.JLabel" binding="label10">
+                <constraints>
+                  <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="힌카쿠"/>
+                </properties>
+              </component>
+              <vspacer id="7e7a0">
+                <constraints>
+                  <grid row="10" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="5dc6a" class="javax.swing.JLabel" binding="label1">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="100"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="고씨네"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </scrollpane>
+      <component id="286f5" class="javax.swing.JButton" binding="backButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Back"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
